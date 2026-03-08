@@ -2177,9 +2177,9 @@ FloatBuffer *GameRenderer::getBuffer(float a, float b, float c, float d)
 
 int GameRenderer::getFpsCap(int option)
 {
-	int maxFps = 200;
+	int maxFps = 280;
 	if (option == 1) maxFps = 120;
-	if (option == 2) maxFps = 35;
+	if (option == 2) maxFps = 60;
 	return maxFps;
 }
 

@@ -1,5 +1,15 @@
 # Minecraft Story Mode
 
+## Download This Folder
+
+```bash
+git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+cd MCLCE-Archive
+git sparse-checkout set story-mode
+```
+
+[Download via Browser](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/story-mode)
+
 > [!WARNING]
 > Steam beta branch builds modified to run without Steam (Steam-cracked).
 

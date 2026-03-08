@@ -1,5 +1,15 @@
 # Minecraft Console Edition - Pre-compiled Windows Build
 
+## Download This Folder
+
+```bash
+git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+cd MCLCE-Archive
+git sparse-checkout set precompiled-windows
+```
+
+[Download via Browser](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/precompiled-windows)
+
 > [!NOTE]
 > Pre-compiled Windows x86_64 build of Minecraft Console Edition. Ready to run executable.
 

@@ -18,6 +18,10 @@
 #include "SurvivalMode.h"
 #include "Chunk.h"
 #include "CreativeMode.h"
+
+#ifdef _WINDOWS64
+#include "Windows64\DebugSettingsWindow.h"
+#endif
 #include "DemoLevel.h"
 #include "MultiPlayerLevel.h"
 #include "MultiPlayerLocalPlayer.h"
@@ -323,6 +327,12 @@ void Minecraft::init()
 	levelSource = new McRegionLevelStorageSource(File(workingDirectory, L"saves"));
 	//        levelSource = new MemoryLevelStorageSource();
 	options = new Options(this, workingDirectory);
+	
+#ifdef _WINDOWS64
+	// Create debug settings window
+	DebugSettingsWindow::Create(options);
+#endif
+	
 	skins = new TexturePackRepository(workingDirectory, this);
 	skins->addDebugPacks();
 	textures = new Textures(skins, options);
@@ -786,7 +796,8 @@ void Minecraft::run()
 
 		achievementPopup->render();
 
-		Sleep(0);	// 4J - was Thread.yield()
+		// 4J - was Thread.yield() - Removed Sleep(0) to allow unlimited FPS
+		// Sleep(0);
 
 		//        if (Keyboard::isKeyDown(Keyboard::KEY_F7)) Display.update();	// 4J - removed condition
 		Display::update();
@@ -816,6 +827,12 @@ void Minecraft::run()
 			fpsString = _toString<int>(frames) + L" fps, " + _toString<int>(Chunk::updates) + L" chunk updates";
 			Chunk::updates = 0;
 			lastTime += 1000;
+			
+#ifdef _WINDOWS64
+			// Update debug window FPS counter
+			DebugSettingsWindow::UpdateFPS((float)frames);
+#endif
+			
 			frames = 0;
 		}
 		/*

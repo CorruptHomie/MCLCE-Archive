@@ -1,5 +1,15 @@
 # Minecraft Pocket Edition (2013)
 
+## Download This Folder
+
+```bash
+git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+cd MCLCE-Archive
+git sparse-checkout set pocket-edition-2013
+```
+
+[Download via Browser](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/pocket-edition-2013)
+
 > [!NOTE]
 > Source code for Minecraft Pocket Edition (MCPE) C++ implementation.
 

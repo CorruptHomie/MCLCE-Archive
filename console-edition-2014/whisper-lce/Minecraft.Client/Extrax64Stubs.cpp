@@ -39,7 +39,7 @@
 #endif
 
 #ifdef _WINDOWS64
-#include "discord_game_sdk.h"
+#include "discord/discord_game_sdk.h"
 #pragma comment(lib, "discord_game_sdk.dll.lib")
 #include "Windows64\Network\WinsockNetLayer.h"
 #endif

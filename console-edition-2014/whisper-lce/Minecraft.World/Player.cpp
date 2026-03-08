@@ -2557,11 +2557,11 @@ int Player::getTexture()
 
 int Player::hash_fnct(const shared_ptr<Player> k)
 {
-	// TODO 4J Stu - Should we just be using the pointers and hashing them?
 #ifdef __PS3__
-	return (int)boost::hash_value( k->name ); // 4J Stu - Names are completely unique?
+	return (int)boost::hash_value( k->name );
 #else
-	return (int)std::hash_value( k->name ); // 4J Stu - Names are completely unique?
+	std::hash<wstring> hasher;
+	return (int)hasher( k->name );
 #endif //__PS3__
 }
 

@@ -3,6 +3,14 @@
   <p align="center">Comprehensive archive of Minecraft Legacy Console Edition and related source code leaks from 2013-2021</p>
 </p>
 
+## Download This Repository
+
+```bash
+git clone https://github.com/M2noa/MCLCE-Archive.git
+```
+
+[Download via Browser](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive)
+
 > [!IMPORTANT]
 > This isn't a permanent solution. I'm working on a custom archive. I wanted to dip my toes into the water by seeing how long it would take to get taken down from GitHub. I expect this to be taken down any day now - I'm surprised it hasn't lol...
 

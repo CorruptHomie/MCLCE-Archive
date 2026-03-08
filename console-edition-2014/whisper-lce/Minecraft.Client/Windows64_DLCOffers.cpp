@@ -4,8 +4,8 @@
 #include <winhttp.h>
 #pragma comment(lib, "winhttp.lib")
 #include <shlobj.h>
-#include "../Windows64_Minecraft.h"
-#include "../User.h"
+#include "Windows64_Minecraft.h"
+#include "User.h"
 
 static bool ParseUrl(const wchar_t* url,
 					 std::wstring& host, INTERNET_PORT& port,

@@ -1,5 +1,15 @@
 # Minecraft Infdev (2014)
 
+## Download This Folder
+
+```bash
+git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+cd MCLCE-Archive
+git sparse-checkout set infdev-2014
+```
+
+[Download via Browser](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/infdev-2014)
+
 > [!NOTE]
 > PC Minecraft Infdev version source code with custom game engine implementation.
 
