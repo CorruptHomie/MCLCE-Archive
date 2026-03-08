@@ -60,7 +60,7 @@ This archive contains the Minecraft Dungeons source code (spice project).
 > [!NOTE]
 > **WhisperLCE** is an unfinished fork of Minecraft Legacy Console Edition created by WhisperHere.
 > 
-> **Leaked:** https://x.com/rockoutgang02/status/2030182283777364433
+> **Leaked:** https://x.com/[REDACTED]/status/2030182283777364433
 >
 > **Extracted Location:** `../console-edition-2014/whisperlce/`
 >
