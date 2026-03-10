@@ -6,7 +6,7 @@
 ## Download This Repository
 
 ```bash
-git clone https://github.com/M2noa/MCLCE-Archive.git
+git clone https://github.com/CorruptHomie/MCLCE-Archive.git
 ```
 
 [Download via Browser](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive)
