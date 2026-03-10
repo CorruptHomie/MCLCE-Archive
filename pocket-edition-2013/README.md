@@ -3,7 +3,7 @@
 ## Download This Folder
 
 ```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+git clone --depth 1 --filter=blob:none --sparse https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 git sparse-checkout set pocket-edition-2013
 ```
