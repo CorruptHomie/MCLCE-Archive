@@ -76,7 +76,7 @@ git-lfs/3.x.x (GitHub; windows amd64; go 1.x.x)
 
 Clone with LFS support:
 ```bash
-git clone https://github.com/M2noa/MCLCE-Archive.git
+git clone https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 ```
 
@@ -165,7 +165,7 @@ If you don't need large binary files:
 
 ```bash
 # Skip LFS files during clone
-GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/M2noa/MCLCE-Archive.git
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/CorruptHomie/MCLCE-Archive.git
 ```
 
 This will clone text pointers instead of actual files, saving bandwidth.
