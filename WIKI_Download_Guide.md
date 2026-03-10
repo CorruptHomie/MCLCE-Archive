@@ -7,7 +7,7 @@ How to download specific editions from the MCLCE Archive.
 Download everything:
 
 ```bash
-git clone https://github.com/M2noa/MCLCE-Archive.git
+git clone https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 ```
 
