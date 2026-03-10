@@ -67,5 +67,5 @@ This repository contains organized source code from multiple Minecraft editions:
 ---
 
 **Maintained By**: M1noa  
-**Repository**: https://github.com/M2noa/MCLCE-Archive  
+**Repository**: https://github.com/CorruptHomie/MCLCE-Archive  
 **Last Updated**: March 10, 2026
