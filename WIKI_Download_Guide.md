@@ -23,7 +23,7 @@ Download only what you need using sparse checkout.
 ### Console Edition Only
 
 ```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+git clone --depth 1 --filter=blob:none --sparse https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 git sparse-checkout set console-edition-2014
 ```
@@ -31,7 +31,7 @@ git sparse-checkout set console-edition-2014
 ### Whisper LCE Only
 
 ```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+git clone --depth 1 --filter=blob:none --sparse https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 git sparse-checkout set console-edition-2014/whisper-lce
 ```
@@ -39,7 +39,7 @@ git sparse-checkout set console-edition-2014/whisper-lce
 ### Pocket Edition Only
 
 ```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+git clone --depth 1 --filter=blob:none --sparse https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 git sparse-checkout set pocket-edition-2013
 ```
@@ -47,7 +47,7 @@ git sparse-checkout set pocket-edition-2013
 ### Dungeons & Legends Only
 
 ```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+git clone --depth 1 --filter=blob:none --sparse https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 git sparse-checkout set dungeons-legends
 ```
@@ -55,7 +55,7 @@ git sparse-checkout set dungeons-legends
 ### Story Mode Only
 
 ```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+git clone --depth 1 --filter=blob:none --sparse https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 git sparse-checkout set story-mode
 ```
@@ -67,22 +67,22 @@ git sparse-checkout set story-mode
 Use download-directory.github.io for browser-based downloads:
 
 ### Full Repository
-[Download Full Archive](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive)
+[Download Full Archive](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive)
 
 ### Console Edition
-[Download Console Edition](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/console-edition-2014)
+[Download Console Edition](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive/tree/main/console-edition-2014)
 
 ### Whisper LCE
-[Download Whisper LCE](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/console-edition-2014/whisper-lce)
+[Download Whisper LCE](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive/tree/main/console-edition-2014/whisper-lce)
 
 ### Pocket Edition
-[Download Pocket Edition](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/pocket-edition-2013)
+[Download Pocket Edition](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive/tree/main/pocket-edition-2013)
 
 ### Dungeons & Legends
-[Download Dungeons & Legends](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/dungeons-legends)
+[Download Dungeons & Legends](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive/tree/main/dungeons-legends)
 
 ### Story Mode
-[Download Story Mode](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/story-mode)
+[Download Story Mode](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive/tree/main/story-mode)
 
 ---
 
