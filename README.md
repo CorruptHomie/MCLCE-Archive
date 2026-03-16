@@ -14,7 +14,7 @@ git clone https://github.com/CorruptHomie/MCLCE-Archive.git
 > [!IMPORTANT]
 > This isn't a permanent solution. I'm working on a custom archive. I wanted to dip my toes into the water by seeing how long it would take to get taken down from GitHub. I expect this to be taken down any day now - I'm surprised it hasn't lol...
 
-New fork, hopefully MS doesn't sucl. This is purely for archival purposes, not for piracy as I own all lisenses to each of these games.
+> New fork, hopefully Microslop doesn't suck. This is purely for archival purposes, not for piracy as I own all lisenses to each of these games. I will gladly add you as a contributor if you have anything new to add. Please email me at homietablet@gmail.com if you have some "fresh content" so to speak.
 
 ---
 
