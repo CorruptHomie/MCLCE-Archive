@@ -3,12 +3,12 @@
 ## Download This Folder
 
 ```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/M2noa/MCLCE-Archive.git
+git clone --depth 1 --filter=blob:none --sparse https://github.com/CorruptHomie/MCLCE-Archive.git
 cd MCLCE-Archive
 git sparse-checkout set dungeons-legends
 ```
 
-[Download via Browser](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/dungeons-legends)
+[Download via Browser](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive/tree/main/dungeons-legends)
 
 > [!NOTE]
 > Source code and builds for Minecraft Dungeons and Minecraft Legends spinoff games.
