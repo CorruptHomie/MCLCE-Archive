@@ -8,7 +8,7 @@ cd MCLCE-Archive
 git sparse-checkout set console-edition-2014
 ```
 
-[Download via Browser](https://download-directory.github.io/?url=https://github.com/M2noa/MCLCE-Archive/tree/main/console-edition-2014)
+[Download via Browser](https://download-directory.github.io/?url=https://github.com/CorruptHomie/MCLCE-Archive/tree/main/console-edition-2014)
 
 > [!NOTE]
 > Source code for Minecraft Console Edition from 2014 leaks. Java-like build system on C++ (not Bedrock-based).
